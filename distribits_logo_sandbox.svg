@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="439.15842mm"
+   height="394.03638mm"
+   viewBox="0 0 439.15842 394.03638"
    version="1.1"
    id="svg14480"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   sodipodi:docname="distribits_logo.svg"
+   sodipodi:docname="distribits_logo_sandbox.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.2029432"
-     inkscape:cx="1605.2453"
-     inkscape:cy="1298.5919"
+     inkscape:zoom="0.4163546"
+     inkscape:cx="999.14831"
+     inkscape:cy="387.89051"
      inkscape:window-width="1440"
      inkscape:window-height="793"
      inkscape:window-x="537"
@@ -49,7 +49,7 @@
     <rect
        x="196.67986"
        y="173.77878"
-       width="410.70232"
+       width="410.70233"
        height="106.79584"
        id="rect16326-2-4" />
     <rect
@@ -116,7 +116,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-12.845258,-25.977298)">
     <ellipse
        cx="44.147724"
        cy="254.36905"
@@ -597,9 +598,9 @@
        style="font-size:48px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2)"><tspan
          x="196.67969"
          y="207.3793"
-         id="tspan25175"><tspan
+         id="tspan2544"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal'"
-           id="tspan25173">distribits</tspan></tspan></text>
+           id="tspan2542">distribits</tspan></tspan></text>
     <circle
        cx="63.133511"
        cy="27.970224"
@@ -871,13 +872,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25183"><tspan
+         id="tspan2552"><tspan
            style="fill:#c6c6c6"
-           id="tspan25177">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2546">8a6d1c60e7fdf41943</tspan><tspan
            style="font-weight:bold;fill:#010101"
-           id="tspan25179">2024</tspan><tspan
+           id="tspan2548">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25181">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2550">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 43.543759,60.898961 H 171.35378"
@@ -1225,13 +1226,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25191"><tspan
+         id="tspan2560"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25185">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2554">8a6d1c60e7fdf41943</tspan><tspan
            style="font-weight:bold;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Bold';fill:#010101"
-           id="tspan25187">2024</tspan><tspan
+           id="tspan2556">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25189">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2558">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 66.209137,111.4162 c 0,0 -2.14591,-0.002 -2.158278,2.42107 -0.01058,2.07232 -2.072052,2.07483 -2.072052,2.07483"
@@ -1603,13 +1604,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25199"><tspan
+         id="tspan2568"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25193">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2562">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#010101"
-           id="tspan25195">2024</tspan><tspan
+           id="tspan2564">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25197">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2566">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.822451,111.41691 c 0,0 -2.247206,-0.11942 -2.253532,2.26964"
@@ -2017,13 +2018,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25207"><tspan
+         id="tspan2576"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25201">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2570">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#fba304"
-           id="tspan25203">2024</tspan><tspan
+           id="tspan2572">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25205">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2574">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 162.93519,152.27157 c 0,0 2.14591,-0.002 2.15828,2.42107 0.0106,2.07232 2.07205,2.07483 2.07205,2.07483"
@@ -2424,13 +2425,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8-6)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25215"><tspan
+         id="tspan2584"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25209">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2578">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#fba304"
-           id="tspan25211">2024</tspan><tspan
+           id="tspan2580">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25213">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2582">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 159.07943,179.33274 c 0,0 2.14591,-0.002 2.15828,2.42107 0.0106,2.07232 2.07205,2.07483 2.07205,2.07483"
@@ -2775,13 +2776,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8-1)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25223"><tspan
+         id="tspan2592"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25217">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2586">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal'"
-           id="tspan25219">2024</tspan><tspan
+           id="tspan2588">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25221">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2590">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 164.16343,216.47419 c 0,0 2.14591,-0.002 2.15828,2.42107 0.0106,2.07232 2.07205,2.07483 2.07205,2.07483"
@@ -3126,13 +3127,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8-1-8)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25231"><tspan
+         id="tspan2600"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25225">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2594">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal'"
-           id="tspan25227">2024</tspan><tspan
+           id="tspan2596">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25229">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2598">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 194.51395,254.38695 c 0,0 2.14591,-0.002 2.15828,2.42107 0.0106,2.07232 2.07205,2.07483 2.07205,2.07483"
@@ -3258,7 +3259,7 @@
          fill="#fba304"
          data-name="Ellipse 266"
          id="circle14283-9-2-7-4-9-7"
-         style="stroke-width:1.22501;fill:#ff6584;fill-opacity:1" />
+         style="fill:#ff6584;fill-opacity:1;stroke-width:1.22501" />
       <circle
          cx="269.46588"
          cy="229.79857"
@@ -3290,7 +3291,7 @@
          fill="#fba304"
          data-name="Ellipse 266"
          id="circle14283-9-1-9-8-1-7-1"
-         style="stroke-width:1.22501;fill:#ff6584;fill-opacity:1" />
+         style="fill:#ff6584;fill-opacity:1;stroke-width:1.22501" />
       <circle
          cx="352.73648"
          cy="229.66652"
@@ -3319,7 +3320,7 @@
          fill="#fba304"
          data-name="Ellipse 266"
          id="circle14283-9-0-1-6-7-3-5"
-         style="stroke-width:1.22501;fill:#ff6584;fill-opacity:1" />
+         style="fill:#ff6584;fill-opacity:1;stroke-width:1.22501" />
       <circle
          cx="379.49396"
          cy="229.66652"
@@ -3479,13 +3480,13 @@
          style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8-1-5)"><tspan
            x="196.67969"
            y="183.28418"
-           id="tspan25239"><tspan
+           id="tspan2608"><tspan
              style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-             id="tspan25233">8a6d1c60e7fdf41943</tspan><tspan
+             id="tspan2602">8a6d1c60e7fdf41943</tspan><tspan
              style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#ff6584"
-             id="tspan25235">2024</tspan><tspan
+             id="tspan2604">2024</tspan><tspan
              style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-             id="tspan25237">5ae0c8df0ce682c677</tspan></tspan></text>
+             id="tspan2606">5ae0c8df0ce682c677</tspan></tspan></text>
       <path
          style="fill:none;stroke:#d8d8d8;stroke-width:0.294692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 410.10353,229.68662 c 0,0 2.39011,-0.002 2.40389,2.69658 0.0118,2.30815 2.30784,2.31094 2.30784,2.31094"
@@ -3831,13 +3832,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8-1-5-4)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25247"><tspan
+         id="tspan2616"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25241">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2610">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#fba304"
-           id="tspan25243">2024</tspan><tspan
+           id="tspan2612">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25245">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2614">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.294692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 402.57684,188.85767 c 0,0 2.39011,-0.002 2.40389,2.69658 0.0118,2.30815 2.30784,2.31094 2.30784,2.31094"
@@ -4232,13 +4233,13 @@
        style="font-size:13.5784px;line-height:0.8;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen, Normal';white-space:pre;shape-inside:url(#rect16326-2-4-4-3-8-1-5-6)"><tspan
          x="196.67969"
          y="183.28418"
-         id="tspan25255"><tspan
+         id="tspan2624"><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#c6c6c6"
-           id="tspan25249">8a6d1c60e7fdf41943</tspan><tspan
+           id="tspan2618">8a6d1c60e7fdf41943</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#ff6584"
-           id="tspan25251">2024</tspan><tspan
+           id="tspan2620">2024</tspan><tspan
            style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';fill:#bbbbbb"
-           id="tspan25253">5ae0c8df0ce682c677</tspan></tspan></text>
+           id="tspan2622">5ae0c8df0ce682c677</tspan></tspan></text>
     <path
        style="fill:none;stroke:#d8d8d8;stroke-width:0.294692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 407.55423,277.72266 c 0,0 2.39011,-0.002 2.40389,2.69658 0.0118,2.30815 2.30784,2.31094 2.30784,2.31094"
@@ -4293,7 +4294,7 @@
     <g
        id="g18919">
       <path
-         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 340.36487,331.07897 h 2.8915"
          id="path29989-50-3-3-1-93-5-2-4"
          sodipodi:nodetypes="cc" />
@@ -4303,17 +4304,17 @@
          id="path29989-50-3-3-1-93-5-2-4-3"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 342.74466,321.06393 h -2.37979"
          id="path29989-50-3-3-1-93-5-2-4-3-7"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 340.36487,321.06393 c 0,0 -2.39011,-0.002 -2.40389,2.69658 -0.0118,2.30815 -2.30784,2.31094 -2.30784,2.31094"
          id="path55863-6-7-5-1-1-6-8"
          sodipodi:nodetypes="csc" />
       <path
-         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#929292;stroke-width:0.395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 340.36487,331.07897 c 0,0 -2.39011,0.002 -2.40389,-2.69658 -0.0118,-2.30814 -2.30784,-2.31094 -2.30784,-2.31094"
          id="path55863-6-7-4-7-8-9-3-3"
          sodipodi:nodetypes="csc" />
